@@ -1,8 +1,6 @@
 # Todo Task Application
 
-An app that let you list all the tasks or ideas you have in mind and to track if you have already complete it.
-
-And if have already completed the task you can simply check the radio button or directly delete it.
+A simple to do application where you can add a to do list and delete a list, it also has words hashing when clicked the radio button which means that this to do task is already completed.
 
 technology used:
  * React

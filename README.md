@@ -8,4 +8,6 @@ technology used:
  * module.css
  * Vite
  
-![screencapture-todo-app-pi-seven-vercel-app-2023-03-20-15_24_48](https://user-images.githubusercontent.com/106008160/226274888-b34245d5-0984-42b8-823f-e7ecb87e5299.png)
+ Demo Video:
+ 
+[gerald-todo-app-demo.webm](https://github.com/geraldWaga92/todo-app/assets/106008160/ae6170c5-1c1a-4636-8f0f-17cec46d9059)
